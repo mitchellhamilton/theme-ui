@@ -5,10 +5,6 @@
   "module": "dist/index.esm.js",
   "author": "Brent Jackson",
   "license": "MIT",
-  "scripts": {
-    "prepare": "microbundle --no-compress",
-    "watch": "microbundle watch --no-compress"
-  },
   "dependencies": {
     "@theme-ui/components": "^0.3.1",
     "@theme-ui/style-guide": "^0.3.0",
