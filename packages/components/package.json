@@ -5,8 +5,8 @@
   "module": "dist/index.esm.js",
   "sideEffects": false,
   "dependencies": {
-    "@emotion/core": "^10.0.0",
-    "@emotion/styled": "^10.0.0",
+    "@emotion/core": "^10.0.17",
+    "@emotion/styled": "^10.0.10",
     "@styled-system/color": "^5.1.2",
     "@styled-system/should-forward-prop": "^5.1.2",
     "@styled-system/space": "^5.1.2",
@@ -19,5 +19,8 @@
     "access": "public"
   },
   "author": "Brent Jackson <jxnblk@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "react": "^16.12.0"
+  }
 }

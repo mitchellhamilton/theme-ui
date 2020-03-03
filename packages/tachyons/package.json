@@ -7,9 +7,9 @@
   "author": "John Otander <johnotander@gmail.com>",
   "license": "MIT",
   "devDependencies": {
+    "@theme-ui/css": "*",
     "babel-polyfill": "^6.26.0",
-    "execa": "^4.0.0",
-    "@theme-ui/css": "^0.3.1"
+    "execa": "^4.0.0"
   },
   "publishConfig": {
     "access": "public"

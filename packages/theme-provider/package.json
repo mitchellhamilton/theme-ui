@@ -5,7 +5,7 @@
   "module": "dist/index.esm.js",
   "sideEffects": false,
   "dependencies": {
-    "@emotion/core": "^10.0.0",
+    "@emotion/core": "^10.0.17",
     "@theme-ui/color-modes": "^0.3.1",
     "@theme-ui/core": "^0.3.1",
     "@theme-ui/mdx": "^0.3.0"
