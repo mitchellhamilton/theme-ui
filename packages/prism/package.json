@@ -1,7 +1,7 @@
 {
   "name": "@theme-ui/prism",
   "version": "0.3.0",
-  "main": "dist/prism.js",
+  "main": "dist/prism.cjs.js",
   "module": "dist/prism.esm.js",
   "author": "John Otander",
   "license": "MIT",

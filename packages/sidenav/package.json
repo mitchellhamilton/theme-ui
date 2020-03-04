@@ -1,8 +1,8 @@
 {
   "name": "@theme-ui/sidenav",
   "version": "0.3.1",
-  "main": "dist/index.js",
-  "module": "dist/index.esm.js",
+  "main": "dist/sidenav.cjs.js",
+  "module": "dist/sidenav.esm.js",
   "license": "MIT",
   "dependencies": {
     "@emotion/core": "^10.0.17",

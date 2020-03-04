@@ -1,8 +1,8 @@
 {
   "name": "@theme-ui/preset-tosh",
   "version": "0.3.0",
-  "main": "dist/index.js",
-  "module": "dist/index.esm.js",
+  "main": "dist/preset-tosh.cjs.js",
+  "module": "dist/preset-tosh.esm.js",
   "author": "John Otander",
   "license": "MIT",
   "repository": "system-ui/theme-ui"
