@@ -6,9 +6,6 @@
   "sideEffects": false,
   "author": "Brent Jackson",
   "license": "MIT",
-  "publishConfig": {
-    "access": "public"
-  },
   "dependencies": {
     "csstype": "^2.5.7"
   }

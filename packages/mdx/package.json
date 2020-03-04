@@ -17,9 +17,6 @@
   "author": "Brent Jackson",
   "repository": "system-ui/theme-ui",
   "license": "MIT",
-  "publishConfig": {
-    "access": "public"
-  },
   "devDependencies": {
     "@theme-ui/core": "*",
     "@theme-ui/css": "*",

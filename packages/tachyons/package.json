@@ -11,9 +11,6 @@
     "babel-polyfill": "^6.26.0",
     "execa": "^4.0.0"
   },
-  "publishConfig": {
-    "access": "public"
-  },
   "dependencies": {
     "tachyons-generator": "^0.23.0"
   },
@@ -25,6 +22,5 @@
     "css-in-js",
     "style"
   ],
-  "repository": "system-ui/theme-ui",
-  "gitHead": "bfd026cae085f377ca537de897dc43233d50f5d5"
+  "repository": "system-ui/theme-ui"
 }

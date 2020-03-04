@@ -5,8 +5,5 @@
   "module": "dist/index.esm.js",
   "author": "Brent Jackson",
   "license": "MIT",
-  "repository": "system-ui/theme-ui",
-  "publishConfig": {
-    "access": "public"
-  }
+  "repository": "system-ui/theme-ui"
 }

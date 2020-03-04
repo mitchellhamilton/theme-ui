@@ -10,6 +10,9 @@ module.exports = {
       {
         test: /\.js$/,
         use: 'babel-loader',
+        options: {
+          rootMode: 'upward',
+        },
       },
     ],
   },

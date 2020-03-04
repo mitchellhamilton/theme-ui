@@ -7,9 +7,6 @@
   "repository": "system-ui/theme-ui",
   "author": "Brent Jackson",
   "license": "MIT",
-  "publishConfig": {
-    "access": "public"
-  },
   "dependencies": {
     "@emotion/core": "^10.0.17",
     "@theme-ui/core": "^0.3.1",

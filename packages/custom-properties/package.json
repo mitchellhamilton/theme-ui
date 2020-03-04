@@ -6,9 +6,6 @@
   "module": "dist/index.esm.js",
   "author": "Alex Page <alex@alexpage.com.au>",
   "license": "MIT",
-  "publishConfig": {
-    "access": "public"
-  },
   "dependencies": {
     "pluralize": "^8.0.0"
   },

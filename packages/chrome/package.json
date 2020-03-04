@@ -30,6 +30,5 @@
     "theme-ui": "^0.3.1",
     "webpack": "^4.33.0",
     "webpack-cli": "^3.3.4"
-  },
-  "gitHead": "bfd026cae085f377ca537de897dc43233d50f5d5"
+  }
 }
